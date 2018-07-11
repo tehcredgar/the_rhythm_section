@@ -111,3 +111,6 @@ footer {
   width: 40%;
   justify-content: space-around;
 }
+footer a {
+  color: black;
+}
